@@ -10,7 +10,7 @@ const port = process.env.PORT || 5000;
 
 // middleware
 const corsOptions={
-    origin:['http://localhost:5173'],
+    origin:['http://localhost:5173','https://catalogmaster-20865.web.app'],
     credentials:true,
     optionSuccessStatus:200,
 }
