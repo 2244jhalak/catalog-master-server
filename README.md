@@ -16,7 +16,7 @@
 - **Database**: MongoDB
 
 ## How to Run Locally
-- Clone the repository: `https://github.com/2244jhalak/catalog-master.git`
+- Clone the repository: `https://github.com/2244jhalak/catalog-master-server.git`
 - Install dependencies: `npm install`
 - Start the server: `npm run dev`
   
