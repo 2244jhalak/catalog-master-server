@@ -50,5 +50,5 @@ app.get('/',(req,res)=>{
 })
 
 app.listen(port, () => {
-    console.log(`Catalog Master Server is running on port : ${port}`)
+    console.log(`Catalog Master Server is running on port : ${port}`);
 })
