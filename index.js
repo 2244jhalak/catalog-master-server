@@ -46,7 +46,7 @@ async function run() {
 run().catch(console.dir);
 
 app.get('/',(req,res)=>{
-    res.send('Catalog Master is running')
+    res.send('Catalog Master is running');
 })
 
 app.listen(port, () => {
